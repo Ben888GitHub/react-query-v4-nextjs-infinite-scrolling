@@ -1,0 +1,7 @@
+GitHub Repo: https://github.com/Ben888GitHub/react-query-v4-nextjs-infinite-scrolling
+Vercel Project: https://vercel.com/ben888github/react-query-v4-nextjs-infinite-scrolling
+
+References:
+- https://tanstack.com/query/v4/docs/react/guides/infinite-queries
+- https://articles.wesionary.team/how-to-implement-infinite-scroll-using-react-query-5fd7c425908f
+- https://blog.delpuppo.net/react-query-infinite-queries
